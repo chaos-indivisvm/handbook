@@ -96,12 +96,10 @@ Chaos Indivisvm is always open to receiving new members. If you have any friends
 
 During Recruitment Ops, a mobile application dispenser will most likely be utilized in the form of a banner.
 
-──────────────────────────────────────────
 
 + Command of the Battlefield: (OIC, Officer In Command)
 Command of any given situation is usually defaulted to the Overlord on duty. In the event that a ranking officer is not online, command is given to the highest ranking officer, or whoever takes charge in a situation. While you shouldn't step out of line when a chain of command is established, showing initiative in a time of need is never a bad thing.
 
-──────────────────────────────────────────
 
 + Uniform Standards:
 - You may customize your armor via tinting, However this must be approved by an Overlord.
@@ -116,7 +114,6 @@ Your Uniform is to be worn at all times whilst on duty. Misrepresentation of Cha
 
 If you think your modification is extreme enough to warrant a second opinion, you probably have to ask an Overlord for approval.
 
-──────────────────────────────────────────
 
 + Unlocking Gear:
 Throughout your enlistment in Chaos, you will likely utilize different pieces of our armory. The higher the rank of the weapon, the higher the complexity, power, or utility.
@@ -128,31 +125,29 @@ Gear in the armory may be unlocked in several ways:
 + Corruption unlocks (Corruption is earned over time in sim or while raiding, or through melee weapon kills, and can be used to unlock and upgrade some items)
 + Merit unlocks (Merits are awarded by command staff for displaying exceptional skill in combat during raids, or for achieving milestones at group meetings)
 
-──────────────────────────────────────────
 
-V. Unacceptable Behaviour:
+### 5. Unacceptable Behaviour:
 
 We're a fun bunch. Our mentality towards behavior and breaking the rules of others is anything that can reversed easily or fixed quickly can be forgiven as if it never happened. That said, there are some things we won't tolerate.
 
-+Sim Crashing: Intentionally crashing someone's sim or giving someone the means to do so isn't acceptable unless you are crashing our own sim or you have been asked to crash someone's sim by the sim owner / renter / etc. This is because crashing sims rolls sims back a few hours. If you do this, you can expect a warning and told not to do it again, followed by demotion or ejection.
++ Sim Crashing: Intentionally crashing someone's sim or giving someone the means to do so isn't acceptable unless you are crashing our own sim or you have been asked to crash someone's sim by the sim owner / renter / etc. This is because crashing sims rolls sims back a few hours. If you do this, you can expect a warning and told not to do it again, followed by demotion or ejection.
 
-+Graphics Crashing: Zero tolerance. If you graphics crash someone, you are out.
++ Graphics Crashing: Zero tolerance. If you graphics crash someone, you are out.
 
-+Doxxing: Doxxing is revealing information about someone that is typically difficult to find, revealed in private, and/or the person in question doesn't want others to know about: specifically retaining to their REAL LIFE! Doxxing is not finding their furaffinity account. It's not OK to initiate autistic dox wars, don't do it. You will be ejected.
++ Doxxing: Doxxing is revealing information about someone that is typically difficult to find, revealed in private, and/or the person in question doesn't want others to know about: specifically retaining to their REAL LIFE! Doxxing is not finding their furaffinity account. It's not OK to initiate autistic dox wars, don't do it. You will be ejected.
 
-+Leaking Equipment: Leaking someone else's hard work isn't cool. If you get handed something with perms, check with them before you distribute it. It's not your fault if it is given to you, but it is your fault to give it out again if it's privately distributed or sold. If it's the equipment of an opposing group that you don't like very much, that doesn't make giving it out okay by any means. This also extends to copybotting- if you don't have permission to do it, don't do it.
++ Leaking Equipment: Leaking someone else's hard work isn't cool. If you get handed something with perms, check with them before you distribute it. It's not your fault if it is given to you, but it is your fault to give it out again if it's privately distributed or sold. If it's the equipment of an opposing group that you don't like very much, that doesn't make giving it out okay by any means. This also extends to copybotting- if you don't have permission to do it, don't do it.
 --Ripping textures is also generally not OK. If you own a modifiable object and want to mess with the cosmetics, ask the creator for the texture or permission to rip it if they have trouble finding it. Generally they will give it to you.
 
-+Causing Issues: Don't. Cause. Issues. Specifically internal ones. If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it.
++ Causing Issues: Don't. Cause. Issues. Specifically internal ones. If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it.
 
-+Cheesing internal systems: Don't do this. We have systems in place to allow for corruption and god favour unlocks, which are meant to take time to get. If you find a loophole and abuse the hell out of it, you're stepping all over those who are earning corruption as intended, and cheapening the experience for all of us. These goalposts are there to encourage activity and to give you something to work towards.
++ Cheesing internal systems: Don't do this. We have systems in place to allow for corruption and god favour unlocks, which are meant to take time to get. If you find a loophole and abuse the hell out of it, you're stepping all over those who are earning corruption as intended, and cheapening the experience for all of us. These goalposts are there to encourage activity and to give you something to work towards.
 If you find a bug, report it. Bug reports will never result in punishment, and may instead result in rewards for aiding in our development process.
 
-+Lying to Us: If you do something listed above, or something otherwise distasteful, do not lie about it. Any consequences given will be worse if you lie and may be mitigated if you are upfront and honest. We're smarter than you. We will find out eventually. All of us in this group has done something shitty or cringy on the internet, the difference is we don't lie about the shitty things we've done.
++ Lying to Us: If you do something listed above, or something otherwise distasteful, do not lie about it. Any consequences given will be worse if you lie and may be mitigated if you are upfront and honest. We're smarter than you. We will find out eventually. All of us in this group has done something shitty or cringy on the internet, the difference is we don't lie about the shitty things we've done.
 
 If someone doxes you, damages your hardware, etc. talk to us. It's OK to hit back, just make us aware of what happened so we can recommend a course of action. Once you are -in- this group, you are -in-, we will back you up; but we are NOT your personal army of autists.
 
-──────────────────────────────────────────
 
 + Punishment:
 Violating our handbook standards or sim rules may result in:
@@ -163,7 +158,6 @@ Violating our handbook standards or sim rules may result in:
 -Sent to cultist trials and rank.
 -Ejection from group.
 
-──────────────────────────────────────────
 
 + Eradication:
 Due to the filth that these two groups bring into our community, and the moral rot that previous incarnations of Chaos have suffered at their hands, there are two groups that are our sworn enemies, and any members are barred entry into our ranks they will receive NO mercy from the forces of Chaos.
@@ -176,95 +170,82 @@ Bronies are even worse than Furries. If you find a Brony within the ranks, repor
 
 That said, they also contribute to sim traffic. If you find one that is wandering the sim, let them tick up our numbers for a bit before murder.
 
-<───────────────────────────────────────────────────────────────────────────────────────>
 
-VI. Rank Structure
+### 6. Rank Structure
 
 The Ranking Structure is designed to ensure a military Standard. Respect for the ranking officers is expected, as those ranks have been earned through hard work & perseverance.
 
 Ranks listed from lowest to highest:
 
-♦♦♦♦♦
 
-+[Militia] - [Reinforcement / Friends / House Plants]
++ [Militia] - [Reinforcement / Friends / House Plants]
 - No authority.
 
 Members of the militia may be in because they are under investigation of being a furry, a furry seeking to change their ways, someone from another group who likes fighting alongside us, or those who do not have the commitment to join our group in earnest. An extended time in militia may make someone eligible to skip their cult phase. Members of militia may donate for our gear. Militia is OPEN ENROLLMENT, if they don't do what you tell them to do or mouth off let someone higher know.
 
-♦♦♦♦♦
 
-+[Cultist] - [Recruit]
++ [Cultist] - [Recruit]
 - No authority. Inductees into the group.
 
 A cultist is a recruit that seeks to prove themselves worthy of becoming part of Chaos. They are taught basic information and combat maneuvers, and honed until they can hold their own in the field of battle.
 
-♦♦♦♦♦
 
-+[Renegade] - [Enlisted]
++ [Renegade] - [Enlisted]
 - Authority over cultists and militia.
 
 The first, enlisted rank in Chaos. The first tier of personnel. Those who have proved themselves to be more than fodder and have been inducted into the group. The brunt of our forces, without which we have nothing.
 
-♦♦♦♦♦
 
-+[Veteran] - [Enlisted+]
++ [Veteran] - [Enlisted+]
 - Authority over renegades, cultists, and militia. May lead small raids.
 
 The second enlisted rank in Chaos. Veterans have either proven their mettle in combat to be given access to more equipment or are on the ledger to be given a leadership position in the future. They may lead raids, lead a squad during a raid, and shadow NCOs and officers doing training.
 
-♦♦♦♦♦
 
-+[Marauder] - [NCO]
++ [Marauder] - [NCO]
 - Authority over enlisted ranks. Issued orders during small raids, maintains group policy & standards within the general enlisted.
 
 The NCOs of the ranks of Chaos, the third tier of personnel. Those who have
 shown potential & taken the initiative during raids will be rewarded with this rank and entrusted with authority over the enlisted members of Chaos. Some may be rewarded this rank for their ability to teach others in the group, be it training or R&D.
 
-♦♦♦♦♦
 
-+[Corruptor] - [Trainer]
++ [Corruptor] - [Trainer]
 - Blanket term for all trainers. Authority over training, specifically the final authority (outside of officers) of their own specific training sessions.
 
 Corruptors are both the best friend and obstacle to a cultist joining the group. They are the primary source of knowledge and also the one that they must seek approval from. The corruptor serves as a cultist's only reliable avenue into the group and the only reliable (ha) source of information outside of this handbook. To the enlisted members, corruptors are their guides to learning how to use their gear and help determine whether they are ready for further promotion or not.
 
-♦♦♦♦♦
 
-+[Chosen] - [Warrant Officer]
++ [Chosen] - [Warrant Officer]
 - Authority over enlisted personnel & NCOs, enforces the handbook & its guidelines, and leads a majority of raids.
 
 The fourth tier of personnel. Those who have demonstrated skill and leadership that surpasses the norm. Enforces discipline within the troops and acts as a morale officer within the ranks. The first rank within the Command Division. Usually those the XO an CO of a division can rely on.
 
-♦♦♦♦♦
 
-+[Champion] - [Officer]
++ [Champion] - [Officer]
 - Authority over the enlisted ranks, usually an XO of a division & entrusted with an important job crucial to smooth operations within the group.
 
 Champions have been those favored most by the gods of Chaos & by their fellow enlisted men. Those who show much aptitude in leadership, inter-group relations, and internal affairs.
 
-♦♦♦♦♦
 
-+[Lord] - [General]
++ [Lord] - [General]
 -Authority over all ranks but Overlord. Leads Divisions & has access to all the gear in the armory.
 
 Lords of the Warp, the truly loyal who would lead our enlisted to victory. This rank is reserved for those that the Overlords have deemed worthy to serve at their side. Usually in the running to become Overlords themselves.
 
-♦♦♦♦♦
 
 + [Enforcer] - [Internal Affairs Officer]
 - Deals with infractions within the group. Actively enforces the will of the Lords & Overlords.
 
 Members that have shown themselves to be loyal without fault, and willing to go the extra length to enforce the will and policies of the command staff. The eyes, ears, and executioners of the Overlords. Typically picked from astute group members or former Overlords.
 
-♦♦♦♦♦
 
-+[Overlord] - [Commander]
++ [Overlord] - [Commander]
 -Absolute authority over all aspects of the group. There are three Overlords which run the group by council leadership. There will always be an odd number of them.
 
 Warlords of the Ruinous Powers, Commanders of Chaos. Holds authority in all aspects Chaos. Their word is law. The Unholy favored warriors of the warp, who gather the heretical, betrayed, and damned into a brotherhood of Chaos Undivided.
 
-<───────────────────────────────────────────────────────────────────────────────────────>
 
-VII. Divisions
+### 7. Divisions
 There are TWO Combat Divisions within Chaos Indivisvm, and FOUR Auxiliary Divisions.
 
 + Ferrum - Heavy Support
@@ -287,9 +268,8 @@ A division that carries with it the responsibility of resolving internal drama i
 + Command
 An informal division compromised of all of the Chosen+ ranks within the group. Most decisions within the group get made with the input of all of command despite Overlords having the final say.
 
-<───────────────────────────────────────────────────────────────────────────────────────>
 
-VIII. Definitions/Reference
+### 8. Definitions/Reference
 
 + OIC - Officer In Charge
 + Militia - Reinforcements of Chaos Indivisvm
@@ -304,7 +284,6 @@ VIII. Definitions/Reference
 + Overlord - Leaders of Chaos Indivisvm
 + KOS - Kill On Sight
 
-──────────────────────────────────────────
 + Civilian
 Civilians are defined as individuals that are entirely unarmed & unaffiliated. Usually vouched for by a member of Chaos. Don't fire on vouched for civilians without good reason. Unaffiliated wanderers are yours to do with as you please. Just don't be a jackass about it. If a civilian is armed ask them to disarm. Noncompliance is grounds for upgrade to Hostile standing and can be shot.
 
@@ -338,9 +317,8 @@ SHOOT:
 - Authorization of Officer to engage target
 - Furfags or Bronies (after they give us traffic)
 
-<───────────────────────────────────────────────────────────────────────────────────────>
 
-IX. Additional Reading
+### 9. Additional Reading
 
 + Drama:
 Drama will without a doubt exist in any community. Drama destroys the morale of the group, If you go out of your way to cause it you will be dealt with swiftly.
@@ -366,15 +344,13 @@ Offensive Operations against another military must be authorized by at least a N
 + Offensive and Defensive procedures
 In order to understand how we fight in combat, it is important you read the below notecards.
 
-􀀂
-􀀁
-􀀀
 
-http://chaosindivisvm.wikia.com/wiki/Ch ... visvm_Wiki
 
-──────────────────────────────────────────
 
-Warhammer 40k Lore
+
+
+
+### 10 Warhammer 40k Lore
 
 Refer to:
 http://wh40k.lexicanum.com/wiki/Main_Page
@@ -407,13 +383,12 @@ Chaos God of decay, disease, and corruption. His sacred number is 7, and his pri
 More information on Nurgle:
 http://wh40k.lexicanum.com/wiki/Nurgle
 
-<───────────────────────────────────────────────────────────────────────────────────────>
 
 XI. Community Links
 We don't just do things in secondlife, we also play other games together and have a forum for documentation and discussion.
 
-+The Forums
-http://chaosindivisvm.com/forum/index.php
++ The Forums
+http://forums.hadettheundying.com/
 
 Please be active on the forums. If you have not registered, please click the box in our spawn hub or armory and register.
 Forums are there for extended documentation and offline communication, and are possibly the best way for us to keep track of enlisted progress, punishments taken against other parties, bug reports, and progress reports.
@@ -422,11 +397,11 @@ YOU ARE NOT TO EVER MENTION sim donations OR armory unlocks in the forums, EVER.
 
 Please do not hide yourself on the forums, it shows activity when we have people on.
 
-+Steam Community Group:
++ Steam Community Group:
 http://steamcommunity.com/groups/ChaosIndivisvm
 
-<───────────────────────────────────────────────────────────────────────────────────────>
-
+# Change Log
+Issue v.5.7 Converted to Markdown, pending updates.
 Issue v.5.62 Changed wording to below as was unclear before
 Issue v.5.61 Minor edits regarding behaviour and activity, prettying up sections, Jan 17th 2019
 Issue v.5.60 Behavior guidelines, minor edits for divisions, minor edits all around, Oct 13th 2018
