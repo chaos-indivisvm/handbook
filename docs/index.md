@@ -16,13 +16,13 @@ Handbook Issue 5.62
 11. Community Links
 
 
-### 1. Introduction
+### Introduction
 This Document is to be used as reference material for all members of the
 Chaos Indivsivm forces, a Warhammer 40K themed Second Life military group.
 Within this notecard you will find topics on history, lore, guidelines for behavior within the group, expectations and duties you are expected to perform whilst in the ranks of Chaos Indivisivm.
 
 
-### 2. Our History
+### Our History
 
 Chaos traces its roots back to the aftermath of the Pan-Slavya coaltion, Chaos was originally created as a mockery of the Ordo Imperialis. Where they had Order, We brought Chaos. While they were Imperial, we were Heretical.
 
@@ -49,7 +49,7 @@ Chaos Indivisvm had its follies: a tolerance of furries towards its beginning, a
 And thus brings us to the present.. Years from founding; the group that wouldn't last a week.
 
 
-### 3. Our Goal
+### Our Goal
 
 The Goal of Chaos Indivisvm, unlike its predecessors, is not to destroy the community, but rather to renew it. Whereas the Dominus found enemies at every side, we seek to find students. The old ways of combat have come and passed, the factions that were plaguing our community are dead, and now it is up to us to usher forth a new era in combat.
 
@@ -58,7 +58,7 @@ Seeing the flaw in the quest to destroy, instead we offer help in birthing new f
 Our goal, ultimately, is to spread endless war by facilitating the means to war, Improving the community, technology, and activity within the SLMC, so that we will have battlefields to plunder and foes to slay.
 
 
-### 4. Expected Behaviour
+### Expected Behaviour
 
 #### Your Duty
 Your duty as an soldier of Chaos Indivisvm is to combat the furry menace, to safeguard our land and to ensure the security of our group.
@@ -126,7 +126,7 @@ Gear in the armory may be unlocked in several ways:
 + Merit unlocks (Merits are awarded by command staff for displaying exceptional skill in combat during raids, or for achieving milestones at group meetings)
 
 
-### 5. Unacceptable Behaviour:
+### Unacceptable Behaviour:
 
 We're a fun bunch. Our mentality towards behavior and breaking the rules of others is anything that can reversed easily or fixed quickly can be forgiven as if it never happened. That said, there are some things we won't tolerate.
 
@@ -171,7 +171,7 @@ Bronies are even worse than Furries. If you find a Brony within the ranks, repor
 That said, they also contribute to sim traffic. If you find one that is wandering the sim, let them tick up our numbers for a bit before murder.
 
 
-### 6. Rank Structure
+### Rank Structure
 
 The Ranking Structure is designed to ensure a military Standard. Respect for the ranking officers is expected, as those ranks have been earned through hard work & perseverance.
 
@@ -245,7 +245,7 @@ Members that have shown themselves to be loyal without fault, and willing to go 
 Warlords of the Ruinous Powers, Commanders of Chaos. Holds authority in all aspects Chaos. Their word is law. The Unholy favored warriors of the warp, who gather the heretical, betrayed, and damned into a brotherhood of Chaos Undivided.
 
 
-### 7. Divisions
+### Divisions
 There are TWO Combat Divisions within Chaos Indivisvm, and FOUR Auxiliary Divisions.
 
 + Ferrum - Heavy Support
@@ -269,7 +269,7 @@ A division that carries with it the responsibility of resolving internal drama i
 An informal division compromised of all of the Chosen+ ranks within the group. Most decisions within the group get made with the input of all of command despite Overlords having the final say.
 
 
-### 8. Definitions/Reference
+### Definitions/Reference
 
 + OIC - Officer In Charge
 + Militia - Reinforcements of Chaos Indivisvm
@@ -318,7 +318,7 @@ SHOOT:
 - Furfags or Bronies (after they give us traffic)
 
 
-### 9. Additional Reading
+###. Additional Reading
 
 + Drama:
 Drama will without a doubt exist in any community. Drama destroys the morale of the group, If you go out of your way to cause it you will be dealt with swiftly.
@@ -350,7 +350,7 @@ In order to understand how we fight in combat, it is important you read the belo
 
 
 
-### 10 Warhammer 40k Lore
+### Warhammer 40k Lore
 
 Refer to:
 http://wh40k.lexicanum.com/wiki/Main_Page
