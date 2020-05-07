@@ -1,6 +1,6 @@
 # ❋ Chaos Indivisvm ❋
 
-Handbook Issue 5.62
+Handbook Issue 5.7,1
 
 
 ## ❋Table of Contents❋
@@ -19,7 +19,7 @@ Handbook Issue 5.62
 ### Introduction
 This Document is to be used as reference material for all members of the
 Chaos Indivsivm forces, a Warhammer 40K themed Second Life military group.
-Within this notecard you will find topics on history, lore, guidelines for behavior within the group, expectations and duties you are expected to perform whilst in the ranks of Chaos Indivisivm.
+Within this Handbook you will find topics on history, lore, guidelines for behavior within the group, expectations and duties you are expected to perform whilst in the ranks of Chaos Indivisivm.
 
 
 ### Our History
@@ -30,7 +30,7 @@ This irked the furry menace to no end, and eventually efforts were exhausted and
 
 After a short hiatus due to the intent of Chaos being taken in a poor light, the original Dominus, Dark Svenska, grew to have a taste for power. Dominus Dark Svenska recreated Chaos with the intent of conquest, as a legitimate military organization that would bring forth a new era of combat.
 
-With the creation of the Iron Symphony & the Anvil Coalition, the Secondlife Military Community faced a new threat. Alliances of power-hungry leaders who would not leave a game as just a game, those who wished to dictate how the community would exist for the unforeseeable future. These Alliances were spearheaded by the Ordo Imperialis & Vanguard, rival powers on the grid at the time, would attack dissenting groups internally and externally, without regards to what is and is not morally acceptable. The Second Life Military Community faced an era of political strife and drama, outweighing the fun of it. Thanks to these groups which led to a massive drop in SLMC activity.
+With the creation of the Iron Symphony & the Anvil Coalition, the Second Life Military Community faced a new threat. Alliances of power-hungry leaders who would not leave a game as just a game, those who wished to dictate how the community would exist for the unforeseeable future. These Alliances were spearheaded by the Ordo Imperialis & Vanguard, rival powers on the grid at the time, would attack dissenting groups internally and externally, without regards to what is and is not morally acceptable. The Second Life Military Community faced an era of political strife and drama, outweighing the fun of it. Thanks to these groups which led to a massive drop in SLMC activity.
 
 During this Era, one banner was raised against these ideals. The banner of Decretum. The proud members of Chaos Decretum strode forth and fought against the political alliances and started a campaign of revitalizing destruction of these groups.
 
@@ -77,7 +77,7 @@ Activity is a very important aspect of your time in Chaos, affecting your eligib
 
 With this being said, we still do understand that real life does take priority, so if you have to take a break due to an unforeseen situation, let us know! Long periods of absence will be put into consideration. Established members of Chaos Indivisvm will be given the benefit of the doubt if they are not online for long periods of time, but if they are online often but not participating in Chaos activities they can/will be considered for administrative punishment as outlined in this handbook.
 
-Cultists that are absent for long periods of time without notice will be considered for removal from the Cult Division on timed intervals in order to remove the dead flesh from the divisions recruit ranks. Chaos should not be wasting time on Cultists that do not actively seek advancement. Cultists who need to take a leave of absence due to real life or personal reasons should notify their corruptor or an officer of the group. Cultists who need to take a leave of absence will be allowed to do so but may still be removed from the cult group depending on the length of the absence. However, they are welcome back to the cult group, and will be allowed to continue their training when they are able but may have to start from scratch depending on the length of the absence.
+Cultists that are absent for long periods of time without notice will be considered for removal from the Cult Division on timed intervals in order to remove the dead flesh from the divisions recruit ranks. Chaos should not be wasting time on Cultists that do not actively seek advancement. Cultists who need to take a leave of absence due to real life or personal reasons should notify their Corruptor or an officer of the group. Cultists who need to take a leave of absence will be allowed to do so but may still be removed from the cult group depending on the length of the absence. However, they are welcome back to the cult group, and will be allowed to continue their training when they are able but may have to start from scratch depending on the length of the absence.
 
 
 #### Common Activity
@@ -106,7 +106,7 @@ Command of any given situation is usually defaulted to the Overlord on duty. In 
 - You may add decorations and 'Trophies' to your armor as long as they fit the 'Chaos' Theme.
 - No form of furfaggotry including Nekos, Bronies and Japanese weeaboos.
 - You must be wearing boots. Leg modifications must be approved by an Overlord.
-- The Sororitas Armor by Heretek is allowed to be worn by female avatars, provided that an acceptable color is used.
+- The Sororitas Armor by Heretech is allowed to be worn by female avatars, provided that an acceptable color is used.
 ( Direct link to this armor - https://marketplace.secondlife.com/stor ... ?id=161060)
 -Though we'd much prefer you use the Female Vraksian Armor. (NO SPONGE!)
 
@@ -144,7 +144,7 @@ We're a fun bunch. Our mentality towards behavior and breaking the rules of othe
 + Cheesing internal systems: Don't do this. We have systems in place to allow for corruption and god favour unlocks, which are meant to take time to get. If you find a loophole and abuse the hell out of it, you're stepping all over those who are earning corruption as intended, and cheapening the experience for all of us. These goalposts are there to encourage activity and to give you something to work towards.
 If you find a bug, report it. Bug reports will never result in punishment, and may instead result in rewards for aiding in our development process.
 
-+ Lying to Us: If you do something listed above, or something otherwise distasteful, do not lie about it. Any consequences given will be worse if you lie and may be mitigated if you are upfront and honest. We're smarter than you. We will find out eventually. All of us in this group has done something shitty or cringy on the internet, the difference is we don't lie about the shitty things we've done.
++ Lying to Us: If you do something listed above, or something otherwise distasteful, do not lie about it. Any consequences given will be worse if you lie and may be mitigated if you are upfront and honest. We're smarter than you. We will find out eventually. All of us in this group has done something shitty or cringey on the internet, the difference is we don't lie about the shitty things we've done.
 
 If someone doxes you, damages your hardware, etc. talk to us. It's OK to hit back, just make us aware of what happened so we can recommend a course of action. Once you are -in- this group, you are -in-, we will back you up; but we are NOT your personal army of autists.
 
@@ -212,7 +212,7 @@ shown potential & taken the initiative during raids will be rewarded with this r
 + [Corruptor] - [Trainer]
 - Blanket term for all trainers. Authority over training, specifically the final authority (outside of officers) of their own specific training sessions.
 
-Corruptors are both the best friend and obstacle to a cultist joining the group. They are the primary source of knowledge and also the one that they must seek approval from. The corruptor serves as a cultist's only reliable avenue into the group and the only reliable (ha) source of information outside of this handbook. To the enlisted members, corruptors are their guides to learning how to use their gear and help determine whether they are ready for further promotion or not.
+Corruptors are both the best friend and obstacle to a cultist joining the group. They are the primary source of knowledge and also the one that they must seek approval from. The Corruptor serves as a cultist's only reliable avenue into the group and the only reliable (ha) source of information outside of this handbook. To the enlisted members, Corruptors are their guides to learning how to use their gear and help determine whether they are ready for further promotion or not.
 
 
 + [Chosen] - [Warrant Officer]
@@ -257,7 +257,7 @@ Mortis is the Fast Attack division of Chaos Indivisvm. Their jobs in combat rang
 -The combat divisions act as your "class" when initially joining the group. As a Veteran, you will have access to gear from both.
 
 + Mechanicus - R&D
-Mechanicus is a Non-Combat subdivision focused on the creations of War-machines. responsible for the creation and maintenance of the tools of the trade. Anyone who has begun contributing to group projects can be made Mechanicus.
+Mechanicus is a Non-Combat subdivision focused on the creations of War-machines. Responsible for the creation and maintenance of the tools of the trade. Anyone who has begun contributing to group projects can be made Mechanicus.
 
 + Cult - Recruitment
 The Cult is the recruitment group of Chaos Indivisvm. Comprised of Cultists & Corruptors. Corruptors are NCOs and higher with Veterans accepted as Corruptors on a case by case basis.
@@ -401,12 +401,13 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
-Issue v.5.7 Converted to Markdown, pending updates.
-Issue v.5.62 Changed wording to below as was unclear before
-Issue v.5.61 Minor edits regarding behaviour and activity, prettying up sections, Jan 17th 2019
-Issue v.5.60 Behavior guidelines, minor edits for divisions, minor edits all around, Oct 13th 2018
-Issue v.5.52, Forum stuff.
-Issue V.5.51, Additional information added, updated, etc. by Tyro
-Issue V.5.00, Reformat, Reorganize & Rewrite by Nia, with input from Hadet - 25/8/15
-Issue V.4.04, Modified by Nia
-Issue V 4.03, Written by Dread Hudson
++ Issue v.5.7.1 fixed some spelling, grammar and formatting errors. 
++ Issue v.5.7 Converted to Markdown, pending updates.
++ Issue v.5.62 Changed wording to below as was unclear before
++ Issue v.5.61 Minor edits regarding behaviour and activity, prettying up sections, Jan 17th 2019
++ Issue v.5.60 Behavior guidelines, minor edits for divisions, minor edits all around, Oct 13th 2018
++ Issue v.5.52, Forum stuff.
++ Issue V.5.51, Additional information added, updated, etc. by Tyro
++ Issue V.5.00, Reformat, Reorganize & Rewrite by Nia, with input from Hadet - 25/8/15
++ Issue V.4.04, Modified by Nia
++ Issue V 4.03, Written by Dread Hudson
