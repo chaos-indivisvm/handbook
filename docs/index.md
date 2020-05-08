@@ -1,7 +1,16 @@
 # ❋ Chaos Indivisvm ❋
 
-Handbook Issue 5.7,1
+Handbook Issue 5.7,2
 
+## Handbook Information
+
+The Handbook will always be available here:
+
+https://chaos-indivisvm.github.io/handbook
+
+This is a Guide for Contributing to the Handbook:
+
+https://youtu.be/d7cYQex_UWo
 
 ## ❋Table of Contents❋
 1. Introduction
