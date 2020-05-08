@@ -401,7 +401,7 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
-Issue v.5.7 Converted to Markdown, pending updates.
+Issue v.5.7 Converted to Markdown, pending updates. I went pee
 Issue v.5.62 Changed wording to below as was unclear before
 Issue v.5.61 Minor edits regarding behaviour and activity, prettying up sections, Jan 17th 2019
 Issue v.5.60 Behavior guidelines, minor edits for divisions, minor edits all around, Oct 13th 2018
