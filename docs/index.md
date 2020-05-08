@@ -401,7 +401,8 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
-+ Issue v.5.7.1 fixed some spelling, grammar and formatting errors. 
++ Issue v.5.7.2 Making A Video for Contributing
++ Issue v.5.7.1 fixed some spelling, grammar and formatting errors.
 + Issue v.5.7 Converted to Markdown, pending updates.
 + Issue v.5.62 Changed wording to below as was unclear before
 + Issue v.5.61 Minor edits regarding behaviour and activity, prettying up sections, Jan 17th 2019
