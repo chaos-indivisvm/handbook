@@ -45,13 +45,13 @@ During this Era, one banner was raised against these ideals; the banner of Decre
 
 Spiteful as it was, it was necessary at the time. However, a campaign of destruction often turns inwards once there are no remaining targets. In the midst of the campaign Chaos Decretum fell, but not after inflicting considerable damage to these factions.
 
-Years after the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more. Jaded from past failures, the Dominus' goal was to destroy what he could and to conquer - not through tactics, but through sheer firepower. Such is how the notoriety of Chaos was earned. Through yet another campaign of hatred was the grid dragged through, one without an enemy clearly in sight.
+Years after the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more. Jaded from past failures, the Dominus' goal was to destroy what he could and to conquer - not through tactics, but sheer firepower. Such is how the notoriety of Chaos was earned. The grid was dragged through another campaign of hatred, one without an enemy clearly in sight.
 
 Such is how Chaos Eternus was corrupted. It became polluted with those we once fought against and even the Dominus himself became guilty of furry sympathizing. The goal of the campaign was rendered out of reach and the will of Chaos was lost through the weakness that the furry scourge brought. Thus, Chaos Eternus died once again, to be reborn into a short lived revival of the Pan-Slavya Coalition, which then died due to the same faults of Eternus.
 
 Upon said death, Dominus Svenska attempted to merge his forces with the Coercion Combine- an action which several of the command council vehemently protested against. Not heeding these warnings, it caused the ultimate split and the rejection of the Dominus from our ranks.
 
-Sick of guiding a Rebel with such a lost cause, the Apostle Council created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, risen from the ashes. AROUSE FROM THE ASSES
+Sick of guiding a Rebel with such a lost cause, the Apostle Council created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, rose from the ashes.
 
 Chaos Indivisvm had its follies: a tolerance of furries towards its beginning, a reliance on old technology, and a misplaced attachment on the mentalities of the past. The furries have since been cast out, old scripts and models replaced, our image and doctrine reforged.
 
