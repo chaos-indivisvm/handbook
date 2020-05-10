@@ -33,38 +33,38 @@ Within this Handbook you will find topics on history, lore, guidelines for behav
 
 ### Our History
 
-Chaos traces its roots back to the aftermath of the Pan-Slavya coaltion, Chaos was originally created as a mockery of the Ordo Imperialis. Where they had Order, We brought Chaos. While they were Imperial, we were Heretical.
+Chaos traces its roots back to the aftermath of the Pan-Slavya coaltion, originally created as a mockery of the Ordo Imperialis. Where they had Order, We brought Chaos. While they were Imperial, we were Heretical.
 
 This irked the furry menace to no end, and eventually efforts were exhausted and the forces of Chaos were put on ice.
 
-After a short hiatus due to the intent of Chaos being taken in a poor light, the original Dominus, Dark Svenska, grew to have a taste for power. Dominus Dark Svenska recreated Chaos with the intent of conquest, as a legitimate military organization that would bring forth a new era of combat.
+After a short hiatus due to Chaos being taken in a poor light, the original Dominus, Dark Svenska, grew to have a taste for power. Dominus Dark Svenska recreated Chaos with the intent of conquest, as a legitimate military organization that would bring forth a new era of combat.
 
-With the creation of the Iron Symphony & the Anvil Coalition, the Second Life Military Community faced a new threat. Alliances of power-hungry leaders who would not leave a game as just a game, those who wished to dictate how the community would exist for the unforeseeable future. These Alliances were spearheaded by the Ordo Imperialis & Vanguard, rival powers on the grid at the time, would attack dissenting groups internally and externally, without regards to what is and is not morally acceptable. The Second Life Military Community faced an era of political strife and drama, outweighing the fun of it. Thanks to these groups which led to a massive drop in SLMC activity.
+With the creation of the Iron Symphony & the Anvil Coalition, the Second Life Military Community faced a new threat; Alliances of power-hungry leaders who would not leave a game as just a game, those who wished to dictate how the community would exist for the unforeseeable future. These Alliances were spearheaded by the Ordo Imperialis & Vanguard, rival powers on the grid at the time, would attack dissenting groups internally and externally, without regards to what is and is not morally acceptable. The Second Life Military Community faced an era of political strife and drama, outweighing the fun of it. Thanks to these groups, their attacks led to a massive drop in SLMC activity.
 
-During this Era, one banner was raised against these ideals. The banner of Decretum. The proud members of Chaos Decretum strode forth and fought against the political alliances and started a campaign of revitalizing destruction of these groups.
+During this Era, one banner was raised against these ideals; the banner of Decretum. The proud members of Chaos Decretum strode forth and fought against the political alliances and started a campaign to fuel the destruction of these groups.
 
-Spiteful as it was, it was necessary at the time. However a campaign of destruction often turns inwards once there are no remaining targets. In the midst of the campaign Chaos Decretum fell, but not after inflicting considerable damage to these factions.
+Spiteful as it was, it was necessary at the time. However, a campaign of destruction often turns inwards once there are no remaining targets. In the midst of the campaign Chaos Decretum fell, but not after inflicting considerable damage to these factions.
 
-Years after the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more. Jaded from past failures the Dominus' goal was to destroy what he could and to conquer - not through tactics but through firepower. Such is how the notoriety of Chaos was earned. Through yet another campaign of hatred was the grid dragged, one without an enemy clearly in sight.
+Years after the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more. Jaded from past failures, the Dominus' goal was to destroy what he could and to conquer - not through tactics, but sheer firepower. Such is how the notoriety of Chaos was earned. The grid was dragged through another campaign of hatred, one without an enemy clearly in sight.
 
 Such is how Chaos Eternus was corrupted. It became polluted with those we once fought against and even the Dominus himself became guilty of furry sympathizing. The goal of the campaign was rendered out of reach and the will of Chaos was lost through the weakness that the furry scourge brought. Thus, Chaos Eternus died once again, to be reborn into a short lived revival of the Pan-Slavya Coalition, which then died due to the same faults of Eternus.
 
-Upon said death Dominus Svenska attempted to merge his forces with the Coercion Combine- an action which several of the command council protested profusely. Not heeding these warnings is what caused the ultimate split and the rejection of the Dominus from our ranks.
+Upon said death, Dominus Svenska attempted to merge his forces with the Coercion Combine- an action which several of the command council vehemently protested against. Not heeding these warnings, it caused the ultimate split and the rejection of the Dominus from our ranks.
 
-Sick of guiding a Rebel with such a lost cause, the Apostle Council created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, arose from the ashes.
+Sick of guiding a Rebel with such a lost cause, the Apostle Council created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, rose from the ashes.
 
-Chaos Indivisvm had its follies: a tolerance of furries towards its beginning, a reliance on old technology, and a misplaced reliance on the mentalities of the past. The furries have since been cast out, the old scripts and models replaced, and our own image and doctrine has been forged.
+Chaos Indivisvm had its follies: a tolerance of furries towards its beginning, a reliance on old technology, and a misplaced attachment on the mentalities of the past. The furries have since been cast out, old scripts and models replaced, our image and doctrine reforged.
 
 And thus brings us to the present.. Years from founding; the group that wouldn't last a week.
 
 
 ### Our Goal
 
-The Goal of Chaos Indivisvm, unlike its predecessors, is not to destroy the community, but rather to renew it. Whereas the Dominus found enemies at every side, we seek to find students. The old ways of combat have come and passed, the factions that were plaguing our community are dead, and now it is up to us to usher forth a new era in combat.
+The Goal of Chaos Indivisvm, unlike its predecessors, is not to destroy the community, but rather to renew it. Whereas the Dominus found enemies at every side, we seek to find students. The old ways of combat have come and passed, the factions that plagued our community are dead, and now it is up to us to usher forth a new era in combat.
 
-Seeing the flaw in the quest to destroy, instead we offer help in birthing new factions, and teaching others how to do what they strive to do in the right way. We have learned from the flaws of our predecessors that unwavering firepower comes at the price of fun. When you can lay waste to an entire battlefield in a single shot, combat loses its luster. It loses its enjoyment, and such a thing brings the death of the community.
+Seeing the flaws in the quest to destroy, we instead offer help in birthing new factions, and teaching others how to do what they strive to do in the right way. We have learned from the flaws of our predecessors that unwavering firepower comes at the price of fun. When you can lay waste to an entire battlefield in a single shot, combat loses its luster. It loses its enjoyment, and such a thing brings the death of the community.
 
-Our goal, ultimately, is to spread endless war by facilitating the means to war, Improving the community, technology, and activity within the SLMC, so that we will have battlefields to plunder and foes to slay.
+Our goal, ultimately, is to spread endless war by facilitating the means to war, improving the community, technology, and activity within the SLMC, so that we will have everlasting battlefields to plunder and foes to slay.
 
 
 ### Expected Behaviour
@@ -79,9 +79,9 @@ MUMBLE IS OUR PRIMARY LINE OF COMMUNICATION. STAYING IN MUMBLE DURING YOUR DOWNT
 
 
 #### Activity:
-You are expected upon joining, to take part in at least 3 raids ( attacks on other sims ) or defenses each week.
+You are expected, upon joining, to take part in at least 3 raids ( attacks on other sims ) or defenses each week.
 
-You are expected to be connected to mumble when you are logged into SL, even if you're not actively participating in combat.
+You are expected to be connected to Mumble when you are logged into SL, even if you're not actively participating in combat.
 Activity is a very important aspect of your time in Chaos, affecting your eligibility for promotions, merits, and general standing within the group, as well as being the very lifeblood of our group. Without anybody participating, there is no group.
 
 With this being said, we still do understand that real life does take priority, so if you have to take a break due to an unforeseen situation, let us know! Long periods of absence will be put into consideration. Established members of Chaos Indivisvm will be given the benefit of the doubt if they are not online for long periods of time, but if they are online often but not participating in Chaos activities they can/will be considered for administrative punishment as outlined in this handbook.
@@ -410,6 +410,7 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
++ Issue v.5.7.3 Fixed sentence structure and grammar
 + Issue v.5.7.2 Making A Video for Contributing
 + Issue v.5.7.1 fixed some spelling, grammar and formatting errors.
 + Issue v.5.7 Converted to Markdown, pending updates.
