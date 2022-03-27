@@ -1,6 +1,6 @@
 # ❋ Chaos Indivisvm ❋
 
-Handbook Issue 5.7,2
+Handbook Issue 5.7.4
 
 ## Handbook Information
 
@@ -33,27 +33,19 @@ Within this Handbook you will find topics on history, lore, guidelines for behav
 
 ### Our History
 
-Chaos traces its roots back to the aftermath of the Pan-Slavya coaltion, originally created as a mockery of the Ordo Imperialis. Where they had Order, We brought Chaos. While they were Imperial, we were Heretical.
+Chaos traces its roots back to the aftermath of the Pan-Slavya coaltion, originally created as a mockery of the Ordo Imperialis. Where they had Order, We brought Chaos. While they were Imperial, we were Heretical. This irked the furry menace to no end, but eventually efforts were exhausted and Chaos was put on ice.
 
-This irked the furry menace to no end, and eventually efforts were exhausted and the forces of Chaos were put on ice.
-
-After a short hiatus due to Chaos being taken in a poor light, the original Dominus, Dark Svenska, grew to have a taste for power. Dominus Dark Svenska recreated Chaos with the intent of conquest, as a legitimate military organization that would bring forth a new era of combat.
+After a short hiatus, the original Dominus, Dark Svenska, grew to have a taste for combat and the reaction his antics enticed. Dominus Dark Svenska recreated Chaos with the intent of conquest, as a legitimate military organization that would bring forth a new era of combat.
 
 With the creation of the Iron Symphony & the Anvil Coalition, the Second Life Military Community faced a new threat; Alliances of power-hungry leaders who would not leave a game as just a game, those who wished to dictate how the community would exist for the unforeseeable future. These Alliances were spearheaded by the Ordo Imperialis & Vanguard, rival powers on the grid at the time, would attack dissenting groups internally and externally, without regards to what is and is not morally acceptable. The Second Life Military Community faced an era of political strife and drama, outweighing the fun of it. Thanks to these groups, their attacks led to a massive drop in SLMC activity.
 
-During this Era, one banner was raised against these ideals; the banner of Decretum. The proud members of Chaos Decretum strode forth and fought against the political alliances and started a campaign to fuel the destruction of these groups.
+During this Era, Dectrum was founded to stand against these ideals; The proud members of which strode forth and fought against the political alliances and started a campaign to fuel the destruction of these groups. Spiteful as it was, it was necessary at the time. However, a campaign of destruction often turns inwards once there are no remaining targets. In the midst of this Chaos Decretum fell, but not after inflicting considerable damage to these factions.
 
-Spiteful as it was, it was necessary at the time. However, a campaign of destruction often turns inwards once there are no remaining targets. In the midst of the campaign Chaos Decretum fell, but not after inflicting considerable damage to these factions.
+After the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more - not through tactics, not through an endgoal, but sheer firepower. Such is how the notoriety of Chaos Eternus was earned. Sadly, Chaos Eternus was corrupted. It became polluted with those we once fought against and even the Dominus himself became guilty of furry sympathizing. The standards of the past were out of reach and the will of Chaos was lost through the weakness that the furry scourge brought. Thus, Chaos Eternus died once again, to be reborn into a short lived revival of the Pan-Slavya Coalition, which then died due to the same faults of Eternus.
 
-Years after the death of Chaos Decretum, Chaos Eternus was born, forging a hellfire once more. Jaded from past failures, the Dominus' goal was to destroy what he could and to conquer - not through tactics, but sheer firepower. Such is how the notoriety of Chaos was earned. The grid was dragged through another campaign of hatred, one without an enemy clearly in sight.
+With the retirement of the Pan-Slavya Coalition, Svenska attempted to merge his forces with the Coercion Combine - an action which several of the command council vehemently protested against. Not heeding these warnings, it caused the ultimate split and the rejection of the Dominus from our ranks. What would have been seen as sparring within Chaos was seen as an attack by Coercion, with a few chaos veterans helping a solo combatant raid their sim. Bans were issued, and the line in the sand was finally drawn. Sick of guiding such a lost cause, the Apostle Council was formed and created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, rose from the ashes.
 
-Such is how Chaos Eternus was corrupted. It became polluted with those we once fought against and even the Dominus himself became guilty of furry sympathizing. The goal of the campaign was rendered out of reach and the will of Chaos was lost through the weakness that the furry scourge brought. Thus, Chaos Eternus died once again, to be reborn into a short lived revival of the Pan-Slavya Coalition, which then died due to the same faults of Eternus.
-
-Upon said death, Dominus Svenska attempted to merge his forces with the Coercion Combine- an action which several of the command council vehemently protested against. Not heeding these warnings, it caused the ultimate split and the rejection of the Dominus from our ranks.
-
-Sick of guiding a Rebel with such a lost cause, the Apostle Council created a new incarnation of Chaos. One for the new era of the grid, an era of rebuilding and growth, of new groups and new enemies. A new Chaos, separate from the follies of the past, Chaos Indivisvm, rose from the ashes.
-
-Chaos Indivisvm had its follies: a tolerance of furries towards its beginning, a reliance on old technology, and a misplaced attachment on the mentalities of the past. The furries have since been cast out, old scripts and models replaced, our image and doctrine reforged.
+Chaos Indivisvm has had its own issues; a tolerance of furries towards its beginning, a reliance on old technology, and a misplaced attachment on the mentalities of the past. The furries have since been cast out, old scripts and models replaced, our image and doctrine reforged.
 
 And thus brings us to the present.. Years from founding; the group that wouldn't last a week.
 
@@ -70,33 +62,52 @@ Our goal, ultimately, is to spread endless war by facilitating the means to war,
 ### Expected Behaviour
 
 #### Your Duty
-Your duty as an soldier of Chaos Indivisvm is to combat the furry menace, to safeguard our land and to ensure the security of our group.
+Your duty as an soldier of Chaos Indivisvm is to slay our foes in combat, combat the furry menace, and to ensure the security of our group.
 
-#### MUMBLE
+
+ **SPECIAL NOTE: Rules of Engagement**
+If someone enters the sim you should follow a simple RoE to ensure that you never shoot at someone that shouldn't be shot at.
+
++ RULES OF ENGAGEMENT:
+DO NOT SHOOT THESE PEOPLE:
+- Unarmed
+- Vouched For (Visiting with a Chaos member)
+- Still in the Attacker Spawn HUB
+
+SHOOT:
+- Attempting to grief the sim or copybot assets
+- Armed & Actively attacking
+- Disgusting Furries or Bronies (after they give us traffic)
+- Authorized by an Officer to engage (Overrules being vouched for, in attacker hub, etc)
+
+#### VOICE COMMS
+DISCORD LINK IS : `http://hey.gayboi.icu/`
+  We primarily use Discord for voice comms and to connect when not on SL.
+  Read the discord rules and stay within TOS as it is a centralized platform.
+  
 MUMBLE ADDRESS IS : `ts.hadettheundying.com`
-
-MUMBLE IS OUR PRIMARY LINE OF COMMUNICATION. STAYING IN MUMBLE DURING YOUR DOWNTIME IS THE BEST WAY TO KNOW WHEN WE ARE DOING STUFF!
+  We have a backup mumble server in case of discord outages or if we get TOO SPICY for the platform at have our server nuked, but that hasn't happened yet.
 
 
 #### Activity:
-You are expected, upon joining, to take part in at least 3 raids ( attacks on other sims ) or defenses each week.
+You are expected, upon joining, to take part in combat actions such as defenses or raids ( attacks on other sims ) throughout the week, the ideal expecations is 3 per week during peak times.
 
-You are expected to be connected to Mumble when you are logged into SL, even if you're not actively participating in combat.
-Activity is a very important aspect of your time in Chaos, affecting your eligibility for promotions, merits, and general standing within the group, as well as being the very lifeblood of our group. Without anybody participating, there is no group.
+You are expected to be connected to Discord when you are logged into SL, even if you're not actively participating in combat.
+Activity is a very important aspect of your time in Chaos, affecting your eligibility for promotions, merits, and general standing within the group, as well as being the very lifeblood of our group. **Without anybody participating, there is no group.**
 
-With this being said, we still do understand that real life does take priority, so if you have to take a break due to an unforeseen situation, let us know! Long periods of absence will be put into consideration. Established members of Chaos Indivisvm will be given the benefit of the doubt if they are not online for long periods of time, but if they are online often but not participating in Chaos activities they can/will be considered for administrative punishment as outlined in this handbook.
+With this being said, we do understand that real life does take priority - if you have to take a break due to an unforeseen situation, let us know! Long periods of absence will be put into consideration. Established members of Chaos Indivisvm will be given the benefit of the doubt if they are not online for long periods of time, but if they are online often but not participating in Chaos activities they can/will be considered for administrative punishment as outlined in this handbook.
 
 Cultists that are absent for long periods of time without notice will be considered for removal from the Cult Division on timed intervals in order to remove the dead flesh from the divisions recruit ranks. Chaos should not be wasting time on Cultists that do not actively seek advancement. Cultists who need to take a leave of absence due to real life or personal reasons should notify their Corruptor or an officer of the group. Cultists who need to take a leave of absence will be allowed to do so but may still be removed from the cult group depending on the length of the absence. However, they are welcome back to the cult group, and will be allowed to continue their training when they are able but may have to start from scratch depending on the length of the absence.
 
 
 #### Common Activity
 
-+ Idling:
-Idling in the spawn area is not permitted, Please move to the Skirmish platform, VR or Build platform so that your avatar does not have to be rendered.
++ Idling on sim:
+Idling in the spawn area is not permitted, Please move to the Skirmish platform, VR or Build platform so that your avatar does not have to be rendered by people engaging in combat.
 
 + Combat:
 In a combat situation, whether it be our territory being assaulted, or us raiding an opposing party, you are expected to participate.
-Chaos Indivisvm is a COMBAT GROUP, and as such we practice it frequently. Failure to act when you could be changing the tide of a battle is highly frowned upon.
+**Chaos Indivisvm is a COMBAT GROUP**, and as such we practice it frequently. Failure to act when you could be changing the tide of a battle is highly frowned upon.
 During combat operations, or situations of high alert, Notify the officer in command if you must depart or go AFK so that we can find someone to cover for you. If you fail to do so, you may leave a massive gap in our defenses that may turn the tide of any battle in the enemies favor.
 Even when combat is not taking place, stay vigilant, enemies are afoot!
 
@@ -148,7 +159,7 @@ We're a fun bunch. Our mentality towards behavior and breaking the rules of othe
 + Leaking Equipment: Leaking someone else's hard work isn't cool. If you get handed something with perms, check with them before you distribute it. It's not your fault if it is given to you, but it is your fault to give it out again if it's privately distributed or sold. If it's the equipment of an opposing group that you don't like very much, that doesn't make giving it out okay by any means. This also extends to copybotting- if you don't have permission to do it, don't do it.
 --Ripping textures is also generally not OK. If you own a modifiable object and want to mess with the cosmetics, ask the creator for the texture or permission to rip it if they have trouble finding it. Generally they will give it to you.
 
-+ Causing Issues: Don't. Cause. Issues. Specifically internal ones. If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it.
++ Causing Issues: **Don't. Cause. Issues. Specifically internal ones.** If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it.
 
 + Cheesing internal systems: Don't do this. We have systems in place to allow for corruption and god favour unlocks, which are meant to take time to get. If you find a loophole and abuse the hell out of it, you're stepping all over those who are earning corruption as intended, and cheapening the experience for all of us. These goalposts are there to encourage activity and to give you something to work towards.
 If you find a bug, report it. Bug reports will never result in punishment, and may instead result in rewards for aiding in our development process.
@@ -254,8 +265,8 @@ Members that have shown themselves to be loyal without fault, and willing to go 
 Warlords of the Ruinous Powers, Commanders of Chaos. Holds authority in all aspects Chaos. Their word is law. The Unholy favored warriors of the warp, who gather the heretical, betrayed, and damned into a brotherhood of Chaos Undivided.
 
 
-### Divisions
-There are TWO Combat Divisions within Chaos Indivisvm, and FOUR Auxiliary Divisions.
+### Doctrines & Divisions
+There are TWO Combat Doctrines within Chaos Indivisvm, and FOUR Auxiliary Divisions.
 
 + Ferrum - Heavy Support
 The Moving Wall. Ferrum is the skull crushing hammer of Chaos Indivisvm. Consisting of the artillery & tanker squads of Chaos, these proud soldiers march through blood stained battlefields one boot in front of the other. Ferrum is the Phalanx to Mortis being the Calvalry. Ferrum’s role is to maintain the line and hold objectives. The Dark Gods help us should Ferrum’s line ever shatter.
@@ -306,26 +317,8 @@ Friendlies are defined as individuals that are armed, but working to assist in c
 Hostiles are defined as individuals that are armed & engaging or considered KOS. Either military or unaffiliated party that is assaulting Chaos Indivsivm.
 To be shot on sight until downgraded to a Neutral/Civilian standing.
 
-+ Sperglord
++ Sperglords
 Lords of Aspergers. Individuals that do something so outrageously stupid that Black-screening & assaulting the spawn hub is permitted. Usually by having an ego as large as the continental united states & flapping it around constantly.
-
-* SPECIAL NOTE: Rules of Engagement *
-If someone enters the sim always follow a simple RoE to ensure that you never shoot at someone that shouldn't be shot at.
-
-+ RULES OF ENGAGEMENT:
-DO NOT SHOOT:
-- Unarmed
-- Vouched For
-- Still in the Attacker Spawn HUB
-
-SHOOT:
-- Attempting to grief the sim
-- Possible Copybotter (GET PERMISSION!)
-- Armed
-- Actively attacking
-- Authorization of Officer to engage target
-- Furfags or Bronies (after they give us traffic)
-
 
 ###. Additional Reading
 
@@ -338,7 +331,7 @@ If someone is going out of their way to cause problems, contact an Enforcer.
 - Recruit - Go recruiting, visit sims and find new cultists.
 - Build - Create things. There is a building platform above the sim and a Mechanicus room at the bottom of the base.
 - Vidya - Grab a friend and CoOp some vidya! We have a Steam community group you can join to keep up with us & play a few rounds on whatever game!
-- Roleplay - Roleplay has always been a part of the SL Community, and will continue to be so for quite some time. If this is more your taste, Go ahead and find a sim and have some fun! (we will make fun of you)
+- Roleplay - Roleplay has always been a part of the SL Community, and will continue to be so for quite some time. Previously Roleplay sims offered metered combat systems, so they were not nearly as much of a time investment, but if this is more your taste, find a sim and have some fun! (we will make fun of you)
 - Pictures - This might sound weird, but our sim is very photogenic- take pictures of the sim, or you on the sim, and share it on the forums!
 - Forums - We have plenty of threads and discussions to participate in. Go ahead and knock yourself out.
 
@@ -349,15 +342,6 @@ WE ARE NOT A DATING SERVICE. LEAVE YOUR FEDORA AT THE DOOR. YOU WILL NOT GET DIC
 
 + Off Sim Raid Policy
 Offensive Operations against another military must be authorized by at least a NCO, given that said party isn't considered at risk of causing an incident. If said group has a high chance for an incident, such a raid must be conducted by a Champion or higher. NCO's normally organize between themselves who is leading raids and when.
-
-+ Offensive and Defensive procedures
-In order to understand how we fight in combat, it is important you read the below notecards.
-
-
-
-
-
-
 
 ### Warhammer 40k Lore
 
@@ -410,6 +394,7 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
++ Issue v.5.7.4 Compress history section, moved ROE to 'Duties', reworded some things in activity and various places in the doc, voice comms section
 + Issue v.5.7.3 Fixed sentence structure and grammar
 + Issue v.5.7.2 Making A Video for Contributing
 + Issue v.5.7.1 fixed some spelling, grammar and formatting errors.
