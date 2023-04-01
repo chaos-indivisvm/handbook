@@ -72,16 +72,18 @@ Our goal, ultimately, is to spread endless war by facilitating the means to war,
 #### Your Duty
 Your duty as an soldier of Chaos Indivisvm is to combat the furry menace, to safeguard our land and to ensure the security of our group.
 
-#### MUMBLE
+#### DISCORD & MUMBLE
+DISCORD INVITE IS : `http://hey.gayboi.icu`
 MUMBLE ADDRESS IS : `ts.hadettheundying.com`
 
-MUMBLE IS OUR PRIMARY LINE OF COMMUNICATION. STAYING IN MUMBLE DURING YOUR DOWNTIME IS THE BEST WAY TO KNOW WHEN WE ARE DOING STUFF!
+DISCORD IS OUR PRIMARY LINE OF COMMUNICATION. STAYING IN DISCORD DURING YOUR DOWNTIME IS THE BEST WAY TO KNOW WHEN WE ARE DOING STUFF!
+WE HAVE MUMBLE AS WELL BUT IT IS PRIMARILY A BACKUP FOR WHEN DISCORD IS EXPERIENCING AN OUTAGE.
 
 
 #### Activity:
 You are expected, upon joining, to take part in at least 3 raids ( attacks on other sims ) or defenses each week.
 
-You are expected to be connected to Mumble when you are logged into SL, even if you're not actively participating in combat.
+You are expected to be connected to Discord when you are logged into SL, even if you're not actively participating in combat.
 Activity is a very important aspect of your time in Chaos, affecting your eligibility for promotions, merits, and general standing within the group, as well as being the very lifeblood of our group. Without anybody participating, there is no group.
 
 With this being said, we still do understand that real life does take priority, so if you have to take a break due to an unforeseen situation, let us know! Long periods of absence will be put into consideration. Established members of Chaos Indivisvm will be given the benefit of the doubt if they are not online for long periods of time, but if they are online often but not participating in Chaos activities they can/will be considered for administrative punishment as outlined in this handbook.
@@ -117,9 +119,9 @@ Command of any given situation is usually defaulted to the Overlord on duty. In 
 - You must be wearing boots. Leg modifications must be approved by an Overlord.
 - The Sororitas Armor by Heretech is allowed to be worn by female avatars, provided that an acceptable color is used.
 ( Direct link to this armor - https://marketplace.secondlife.com/stor ... ?id=161060)
--Though we'd much prefer you use the Female Vraksian Armor. (NO SPONGE!)
+-Though we'd much prefer you use the Female Crimson Legion Armor. (NO SPONGE!)
 
-Your Uniform is to be worn at all times whilst on duty. Misrepresentation of Chaos through your laxness is not acceptable. Furry avatars are NEVER allowed. He who allows the furry to live shares the guilt of it's existence.
+Your Uniform is to be worn at all times whilst on duty. IF YOU ARE ON AN SLMC SIM, YOU ARE ON-DUTY. Misrepresentation of Chaos through your laxness is not acceptable. Furry avatars are NEVER allowed. He who allows the furry to live shares the guilt of its existence.
 
 If you think your modification is extreme enough to warrant a second opinion, you probably have to ask an Overlord for approval.
 
@@ -139,7 +141,7 @@ Gear in the armory may be unlocked in several ways:
 
 We're a fun bunch. Our mentality towards behavior and breaking the rules of others is anything that can reversed easily or fixed quickly can be forgiven as if it never happened. That said, there are some things we won't tolerate.
 
-+ Sim Crashing: Intentionally crashing someone's sim or giving someone the means to do so isn't acceptable unless you are crashing our own sim or you have been asked to crash someone's sim by the sim owner / renter / etc. This is because crashing sims rolls sims back a few hours. If you do this, you can expect a warning and told not to do it again, followed by demotion or ejection.
++ Sim Crashing: Intentionally crashing someone's sim or giving someone the means to do so isn't acceptable unless you are crashing our own sim or you have been asked to crash someone's sim by the sim owner / renter / etc. This is because crashing sims rolls sims back a few hours. If you do this, you can expect a warning and told not to do it again. Further offenses will be punished by demotion or ejection.
 
 + Graphics Crashing: Zero tolerance. If you graphics crash someone, you are out.
 
@@ -148,10 +150,16 @@ We're a fun bunch. Our mentality towards behavior and breaking the rules of othe
 + Leaking Equipment: Leaking someone else's hard work isn't cool. If you get handed something with perms, check with them before you distribute it. It's not your fault if it is given to you, but it is your fault to give it out again if it's privately distributed or sold. If it's the equipment of an opposing group that you don't like very much, that doesn't make giving it out okay by any means. This also extends to copybotting- if you don't have permission to do it, don't do it.
 --Ripping textures is also generally not OK. If you own a modifiable object and want to mess with the cosmetics, ask the creator for the texture or permission to rip it if they have trouble finding it. Generally they will give it to you.
 
-+ Causing Issues: Don't. Cause. Issues. Specifically internal ones. If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it.
++ Causing Issues: Don't. Cause. Issues. Specifically internal ones. If someone, especially of rank, asks you to stop doing something, stop doing it. Things will be smoother for you and smoother for everyone else if you don't go out of your way to cause internal group drama and are open to cutting it out when called out on it. If you feel someone is going out of their way to cause issues, contact an Enforcer.
 
 + Cheesing internal systems: Don't do this. We have systems in place to allow for corruption and god favour unlocks, which are meant to take time to get. If you find a loophole and abuse the hell out of it, you're stepping all over those who are earning corruption as intended, and cheapening the experience for all of us. These goalposts are there to encourage activity and to give you something to work towards.
 If you find a bug, report it. Bug reports will never result in punishment, and may instead result in rewards for aiding in our development process.
+
++ Providing special treatment: Special Treatment between ranks is NOT permitted within Chaos. If someone is "punished" in an exceptionally light manner in comparison to other offenders of the same offense, notify an Enforcer & they will pass the information to the correct parties.
+"Yiffing" for rank is HIGHLY PROHIBITED, If any solid proof is gathered of this situation the convicted parties will be immediately ejected.
+WE ARE NOT A DATING SERVICE. LEAVE YOUR FEDORA AT THE DOOR. YOU WILL NOT GET DICK, PUSSY, BALLS, OR ASS WITHIN THE GROUP.
+
++ Uniform policy violation: To reiterate, do not wear unacceptable (furry, brony, neko, child, or anime) avatars while on-duty. IF YOU ARE ON AN SLMC SIM, YOU ARE ON-DUTY. Violations of this will be more severely punished due to recent policy changes. In certain extreme cases this may lead to an immediate, permanent ejection without appeal.
 
 + Lying to Us: If you do something listed above, or something otherwise distasteful, do not lie about it. Any consequences given will be worse if you lie and may be mitigated if you are upfront and honest. We're smarter than you. We will find out eventually. All of us in this group has done something shitty or cringey on the internet, the difference is we don't lie about the shitty things we've done.
 
@@ -166,18 +174,6 @@ Violating our handbook standards or sim rules may result in:
 -Removal of God Favour or Corruption
 -Sent to cultist trials and rank.
 -Ejection from group.
-
-
-+ Eradication:
-Due to the filth that these two groups bring into our community, and the moral rot that previous incarnations of Chaos have suffered at their hands, there are two groups that are our sworn enemies, and any members are barred entry into our ranks they will receive NO mercy from the forces of Chaos.
-
-Furries and Bronies.
-
-Furries are NOT allowed in Chaos. Any caught spreading filth within our ranks will be purged with fire. If you find a Furry within our ranks, do not hesitate, report the scum to your nearest officer!
-
-Bronies are even worse than Furries. If you find a Brony within the ranks, report them immediately. This plague must be stomped out before it has time to fester. Such a moral rot makes even the ruinous powers cringe in disgust.
-
-That said, they also contribute to sim traffic. If you find one that is wandering the sim, let them tick up our numbers for a bit before murder.
 
 
 ### Rank Structure
@@ -324,14 +320,11 @@ SHOOT:
 - Armed
 - Actively attacking
 - Authorization of Officer to engage target
-- Furfags or Bronies (after they give us traffic)
+- Furfags or Bronies or Child Avatars (after they give us traffic)
 
 
 ###. Additional Reading
 
-+ Drama:
-Drama will without a doubt exist in any community. Drama destroys the morale of the group, If you go out of your way to cause it you will be dealt with swiftly.
-If someone is going out of their way to cause problems, contact an Enforcer.
 
 + Coping with Boredom:
 - Don't be antisocial - Make friends, get on mumble and have fun! Discord is also an option now.
@@ -342,62 +335,16 @@ If someone is going out of their way to cause problems, contact an Enforcer.
 - Pictures - This might sound weird, but our sim is very photogenic- take pictures of the sim, or you on the sim, and share it on the forums!
 - Forums - We have plenty of threads and discussions to participate in. Go ahead and knock yourself out.
 
-+ Special Treatment:
-Special Treatment between ranks is NOT permitted within Chaos. If someone is "punished" in an exceptionally light manner in comparison to other offenders of the same offense, notify an Enforcer & they will pass the information to the correct parties.
-"Yiffing" for rank is HIGHLY PROHIBITED, If any solid proof is gathered of this situation the convicted parties will be immediately ejected.
-WE ARE NOT A DATING SERVICE. LEAVE YOUR FEDORA AT THE DOOR. YOU WILL NOT GET DICK, PUSSY, BALLS, OR ASS WITHIN THE GROUP.
 
 + Off Sim Raid Policy
 Offensive Operations against another military must be authorized by at least a NCO, given that said party isn't considered at risk of causing an incident. If said group has a high chance for an incident, such a raid must be conducted by a Champion or higher. NCO's normally organize between themselves who is leading raids and when.
-
-+ Offensive and Defensive procedures
-In order to understand how we fight in combat, it is important you read the below notecards.
-
-
-
-
-
-
-
-### Warhammer 40k Lore
-
-Refer to:
-http://wh40k.lexicanum.com/wiki/Main_Page
-http://wh40k.lexicanum.com/wiki/Chaos_Undivided
-http://wh40k.lexicanum.com/wiki/Portal:Chaos
-
-+ The Ruinous Powers
-The Ruinous Powers, the Dark Gods, beings of unbelievable power and cruelty. As a group, we worship Chaos Undivided, that is, all of them, with no preference, However Each individual can chose to follow their own God of Chaos.
-
-+ Khorne
-Chaos God of blood, anger, war, and hatred. Khorne's opposite is Slaanesh, his sacred number is 8, and his primary color is red.
-More information on Khorne:
-http://wh40k.lexicanum.com/wiki/Khorne
-
-
-+ Slaanesh
-Chaos God of pleasure, lust, excess, perfection, and hedonism. Slaanesh has its opposite in Khorne, its sacred number is 6, and its primary color is purple or pink.
-More information on Slaanesh:
-http://wh40k.lexicanum.com/wiki/Slaanesh
-
-
-+ Tzeentch
-Chaos God of change. Tzeentch's rival is Nurgle, his sacred number 9, and his primary color blue.
-More information on Tzeentch:
-http://wh40k.lexicanum.com/wiki/Tzeentch
-
-
-+ Nurgle
-Chaos God of decay, disease, and corruption. His sacred number is 7, and his primary color is an off-green.
-More information on Nurgle:
-http://wh40k.lexicanum.com/wiki/Nurgle
 
 
 XI. Community Links
 We don't just do things in secondlife, we also play other games together and have a forum for documentation and discussion.
 
 + The Forums
-http://forums.hadettheundying.com/
+https://forum.chaos.church
 
 Please be active on the forums. If you have not registered, please click the box in our spawn hub or armory and register.
 Forums are there for extended documentation and offline communication, and are possibly the best way for us to keep track of enlisted progress, punishments taken against other parties, bug reports, and progress reports.
@@ -410,6 +357,7 @@ Please do not hide yourself on the forums, it shows activity when we have people
 http://steamcommunity.com/groups/ChaosIndivisvm
 
 # Change Log
++ Issue v.5.8.0 Obsolete section removal, some rearrangement, unacceptable behaviour policies updated, links updated.
 + Issue v.5.7.3 Fixed sentence structure and grammar
 + Issue v.5.7.2 Making A Video for Contributing
 + Issue v.5.7.1 fixed some spelling, grammar and formatting errors.
